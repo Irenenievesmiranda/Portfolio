@@ -1,2 +1,0 @@
-# Portfolio
-Repositorio de proyectos
